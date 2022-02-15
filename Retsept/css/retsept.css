@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cookie&display=swap');
+
+
+.title{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+body{
+    background-color:darksalmon;
+    color:darkslategray;
+}
+.ingredients{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    
+}
+.ingredients-table{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+.title2{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+.instruction{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+.instruction ol{
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 75%;
+}
+.line{
+    border: 1px solid darkgreen;
+}
+.Image{
+    text-align: center;
+}
+img {
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 5px;
+    width: 500px;
+    border-image: fill;
+  }
+  .link{
+      text-align: center;
+  }
